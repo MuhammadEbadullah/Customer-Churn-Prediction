@@ -1,0 +1,28 @@
+Best model: Logistic Regression
+Test ROC-AUC: 0.7913   Test PR-AUC: 0.5738
+
+Threshold 0.50 (default)
+{
+  "threshold": 0.5,
+  "precision": 0.466,
+  "recall": 0.7466,
+  "f1": 0.5738,
+  "tn": 719,
+  "fp": 314,
+  "fn": 93,
+  "tp": 274,
+  "net_benefit": 23460.0
+}
+
+Threshold 0.36 (chosen by net benefit)
+{
+  "threshold": 0.36,
+  "precision": 0.4036,
+  "recall": 0.8665,
+  "f1": 0.5506,
+  "tn": 563,
+  "fp": 470,
+  "fn": 49,
+  "tp": 318,
+  "net_benefit": 24060.0
+}

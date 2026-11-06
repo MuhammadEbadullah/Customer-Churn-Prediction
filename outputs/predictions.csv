@@ -1,0 +1,11 @@
+customer_id,tenure_months,contract_type,plan_type,payment_method,has_autopay,monthly_charges,logins_last_30d,avg_session_minutes,feature_usage_score,days_since_last_login,support_tickets_90d,late_payments_6m,churn,churn_probability,action
+CUST101528,6,Month-to-month,Standard,Bank transfer,1,46.89,0,4.9,18.6,14,1,2,1,0.938,Contact with offer
+CUST101651,45,Month-to-month,Premium,Mobile wallet,0,93.82,0,4.3,10.5,10,2,1,0,0.891,Contact with offer
+CUST102305,60,Month-to-month,Standard,Mobile wallet,0,70.77,11,13.6,44.4,5,4,0,0,0.613,Contact with offer
+CUST104388,13,One year,Basic,Mobile wallet,0,53.04,13,21.8,52.7,11,3,0,0,0.53,Contact with offer
+CUST106189,48,One year,Standard,Bank transfer,1,61.97,2,4.8,27.1,14,1,1,0,0.493,Contact with offer
+CUST106346,31,Two year,Premium,Mobile wallet,1,102.4,3,1.6,14.5,8,0,1,0,0.378,Contact with offer
+CUST105389,33,Two year,Standard,Card,0,61.93,7,10.1,25.6,6,2,0,0,0.305,No action
+CUST101686,65,Month-to-month,Standard,Cash,0,60.54,26,23.8,76.3,0,3,1,0,0.279,No action
+CUST104197,60,Two year,Basic,Card,0,44.96,13,18.9,54.7,12,0,0,0,0.043,No action
+CUST104945,72,Two year,Standard,Mobile wallet,0,52.86,23,21.2,70.1,4,0,1,0,0.028,No action

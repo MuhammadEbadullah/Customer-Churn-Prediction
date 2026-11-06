@@ -1,0 +1,4 @@
+model,cv_roc_auc,cv_roc_auc_std,cv_pr_auc,test_roc_auc,test_pr_auc
+Logistic Regression,0.8066,0.0183,0.6016,0.7913,0.5738
+Random Forest,0.7932,0.0166,0.5707,0.7721,0.5427
+Gradient Boosting,0.7896,0.0166,0.5653,0.7645,0.5364

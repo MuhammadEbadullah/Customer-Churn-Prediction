@@ -1,0 +1,13 @@
+feature,importance,std
+contract_type,0.089,0.0035
+tenure_months,0.0508,0.0067
+feature_usage_score,0.0138,0.0043
+late_payments_6m,0.0134,0.0024
+support_tickets_90d,0.0124,0.0036
+has_autopay,0.0119,0.0021
+days_since_last_login,0.009,0.0026
+monthly_charges,0.0038,0.0019
+avg_session_minutes,0.0028,0.0025
+plan_type,0.0024,0.0013
+logins_last_30d,0.0009,0.0008
+payment_method,-0.0,0.0008
